@@ -8,7 +8,7 @@ var bodyParser = require('body-parser');
 
 var index = require('./routes/index');
 var users = require('./routes/users');
-var weather = require('./routes/weather')
+var weather = require('./routes/weather');
 var active = require('./routes/active');
 var players = require('./routes/players');
 
